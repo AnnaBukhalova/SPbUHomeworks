@@ -1,0 +1,15 @@
+C:\Users\Yoreel\source\repos\Task_3\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Yoreel\source\repos\Task_3\Task_3\bin\Debug\Task_3.exe
+C:\Users\Yoreel\source\repos\Task_3\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.csproj.GenerateResource.cache
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.exe
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.pdb
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.MainScreen.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Question1.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Question2.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Question3.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Question4.resources
+C:\Users\Yoreel\source\repos\Task_3\Task_3\obj\Debug\Task_3.Result.resources

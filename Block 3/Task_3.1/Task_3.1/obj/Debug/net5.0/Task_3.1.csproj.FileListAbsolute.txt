@@ -1,0 +1,16 @@
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.exe
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.deps.json
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.runtimeconfig.json
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.runtimeconfig.dev.json
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.dll
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\ref\Task_3.1.dll
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\bin\Debug\net5.0\Task_3.1.pdb
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.csproj.AssemblyReference.cache
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.AssemblyInfoInputs.cache
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.AssemblyInfo.cs
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.csproj.CoreCompileInputs.cache
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.dll
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\ref\Task_3.1.dll
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.pdb
+C:\Users\Yoreel\source\repos\Task_3.1\Task_3.1\obj\Debug\net5.0\Task_3.1.genruntimeconfig.cache
