@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHfPuVPeY/PIL11C0dT0BZISm3EcPjLq+eS7KyL4KfiulaOw9ne3yDEbtoomiCBSmhze76QBbDw0B3+MSfYCIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoreel\\source\\repos\\Task2.2\\Task2.2\\Task2.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoreel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yoreel\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yoreel\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

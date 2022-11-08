@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yoreel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yoreel\\.nuget\\packages"
+    ]
+  }
+}
