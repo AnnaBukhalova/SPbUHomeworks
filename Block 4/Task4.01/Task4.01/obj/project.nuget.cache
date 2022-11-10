@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynz8kGPHdMeYYNX6bD7QcrOQcXaDbVZRpCnY8kUIhXmLLaIgpz5zVpOElRaEmjK1MNt45wpnN1yRBjkVEGB6cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoreel\\source\\repos\\Task4.01\\Task4.01\\Task4.01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoreel\\.nuget\\packages\\yamldotnet\\12.0.2\\yamldotnet.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
